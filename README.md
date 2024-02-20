@@ -1,2 +1,2 @@
-# metabarcoding
-random metabarcoding scripts
+# Metabarcoding
+Scripts used in CBB metabarcoding projects. 
